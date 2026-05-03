@@ -7,7 +7,7 @@ Features:
 - Fog Effect: Realistic depth with dynamic fog.
 - Alpha Blending: Transparent ghost character for a spooky atmosphere.
 - Collision Detection: Interactive red alert when the player clashes with the ghost.
-- 
+  
 Technologies Used
 - Python
 - PyOpenGL
